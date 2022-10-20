@@ -4,7 +4,7 @@
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
-<a href="" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Peashooter29934#8450#" height="30" width="40"/></a> Peashooter29934#8450
+<a href="" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Peashooter29934#8450#" height="40" width="40"/></a> Peashooter29934#8450
 </p>
 <!--
 **LuisContla/LuisContla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
