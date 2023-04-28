@@ -2,7 +2,7 @@
 <hr>
 <h3 align="center"><strong>ABOUT ME</strong></h3>
 <h5 align="center">💻 I'm currenty a Computer Science student 👨‍💻</h5>
-<h5 align="center">🇲🇽 I'm form Mexico 🇲🇽</h5>
+<h5 align="center">🌮 I'm form Mexico 🌵</h5>
 <hr>
 <h3 align="center"><strong>CONTACT ME</strong></h3>
 
